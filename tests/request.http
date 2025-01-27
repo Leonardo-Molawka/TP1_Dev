@@ -1,0 +1,10 @@
+POST http://localhost:3000/blockchain?nom=my&don=2
+Content-Type: application/json
+
+{}
+
+###
+GET http://localhost:3000/blockchain
+Accept: application/json
+
+###
